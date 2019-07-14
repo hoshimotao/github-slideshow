@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Dev: "It doesn't work...why?"
+Also Dev: "It works...why?"
 Use the left arrow to go back!
